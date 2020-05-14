@@ -31,10 +31,7 @@
                             <constraint firstItem="xpp-yW-17K" firstAttribute="height" secondItem="5yw-C1-yZQ" secondAttribute="height" id="KOP-Je-2nt"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="5yw-C1-yZQ" secondAttribute="bottom" constant="37" id="XCm-rK-T9T"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="5yw-C1-yZQ" secondAttribute="trailing" constant="20" id="Y5A-23-cnb"/>
-                            <constraint firstItem="5yw-C1-yZQ" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Zqm-DS-Ndw"/>
-                            <constraint firstItem="xpp-yW-17K" firstAttribute="width" secondItem="5yw-C1-yZQ" secondAttribute="width" id="aGX-KG-IT9"/>
                             <constraint firstItem="5yw-C1-yZQ" firstAttribute="top" secondItem="xpp-yW-17K" secondAttribute="bottom" constant="31" id="bU4-hD-Ogn"/>
-                            <constraint firstItem="xpp-yW-17K" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="gWV-Af-oKb"/>
                             <constraint firstItem="xpp-yW-17K" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="50" id="sWz-bC-kj9"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="xpp-yW-17K" secondAttribute="trailing" constant="20" id="tFZ-Zn-dTW"/>
                         </constraints>
